@@ -35,8 +35,8 @@ This dashboard helps business stakeholders monitor performance, identify growth 
 ---
 
 # 📸 Dashboard Preview
+<img width="1164" height="651" alt="image" src="https://github.com/user-attachments/assets/54fad013-88a2-4241-8533-b1dc8dc5c955" />
 
-![E-Commerce Sales Dashboard](ecommerce_sales_dashboard.png)
 
 ---
 
@@ -170,7 +170,7 @@ Successfully designed and developed a comprehensive E-Commerce Sales Performance
 
 📊 Aspiring Data Analyst
 
-💻 Power BI | SQL | Python | Excel | MySQL
+💻 Power BI | SQL | Excel | MySQL
 
 📍 Gudivada, Andhra Pradesh, India
 
