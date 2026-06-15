@@ -115,8 +115,8 @@ LIMIT 5;
 ---
 
 ## 📸 Dashboard Preview
+<img width="1164" height="651" alt="image" src="https://github.com/user-attachments/assets/6c7f9654-5fef-40a6-a65f-af8d3cdd7250" />
 
-(E-Commerce Performance Dashboard.png)
 
 ---
 
