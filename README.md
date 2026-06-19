@@ -168,7 +168,7 @@ Successfully designed and developed a comprehensive E-Commerce Sales Performance
 ### 👩‍💻 Created By
 **Saranya Bandlamudi**
 
-📊 Aspiring Data Analyst
+📊 Data Analyst
 
 💻 Power BI | SQL | Excel | MySQL
 
