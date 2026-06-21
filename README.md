@@ -168,9 +168,7 @@ Successfully designed and developed a comprehensive E-Commerce Sales Performance
 ### 👩‍💻 Created By
 **Saranya Bandlamudi**
 
-📊 Data Analyst
-
-💻 Power BI | SQL | Excel | MySQL
+📊 Power BI | SQL | Excel | MySQL
 
 📍 Gudivada, Andhra Pradesh, India
 
